@@ -15,7 +15,7 @@ public class Expression {
 		
 		Novels = (double) Novels / 3;  // It will give  6 instead of 6.666 because in integer devision we truncate any decimal portion.
 		
-		// We can cast a value as ()
+		// We can cast a value as () and can write double in the brackets also changing the data type.
 		
 		// Novels--;   // This or Novels = Novels +1;
 		
