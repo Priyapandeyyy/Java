@@ -19,7 +19,7 @@ public class twoDarray {
 //		cars[2][2] = "Tesla";
 
 		
-		// WE CAN ALOS WRITE IT THIS WAY
+		// WE CAN ALSO WRITE IT THIS WAY
 		
 		String[][] cars = {
 				{"Camaro","Corvette","Silverado"},
