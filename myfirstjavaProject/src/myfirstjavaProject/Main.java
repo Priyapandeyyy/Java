@@ -29,3 +29,16 @@ public class Main {
  "\" = add double quote in output
  \\ = to show backslash in output.
 */
+
+// Package = It is a group of similar types of class, interfaces and sub-packaages.
+
+
+
+
+
+
+
+
+
+
+
