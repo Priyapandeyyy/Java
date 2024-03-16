@@ -1,3 +1,4 @@
+package myfirstjavaProject;
 import java.util.ArrayList;
 
 public class arrayList {
