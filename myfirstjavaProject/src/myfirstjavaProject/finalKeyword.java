@@ -8,7 +8,6 @@ public class finalKeyword {
 		
 		final double ab = 3.14159;
 		
-		
 		System.out.println(ab);
 	}
 }

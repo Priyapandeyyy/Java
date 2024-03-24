@@ -4,13 +4,60 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("\\Hello World!!\"");
-		System.out.println("I did It!!");
-		System.out.println();
+		
+		
+		
+		
+		
 		
 	}
 }
+		
+		
+		// ✨✨ Variable Scope ✨✨
+		
+     	// VariableScope variablescope = new VariableScope();
+		
 
+		
+		
+		// ✨✨ Constructors ✨✨
+		
+//		Constructor human1 = new Constructor("Priya", 20, 60);
+//		Constructor human2 = new Constructor("Rachel", 40, 80);
+//		
+//		// We have to pass argument to this Constructor otherwise it will give error.
+//		
+//		System.out.println(human1.name);
+//		
+//		human1.drink();
+		
+		
+		
+		// ✨✨ FOR BASIC OF OOP ✨✨
+		
+		
+//		System.out.println("\\Hello World!!\"");
+//		System.out.println("I did It!!");
+//		System.out.println();
+		
+//		OOP myCar1 = new OOP();
+//		OOP myCar2 = new OOP();
+//		
+//		System.out.println(myCar1.color);   //This will be give the same output So we will learn constructor that will give us different element or attribute
+//		System.out.println();
+//		System.out.println(myCar2.color);
+//		
+//		// myCar.brake();
+//		// myCar.drive();
+		
+		
+		
+		
+		// ✨✨ DEFINITIONS ✨✨
+		
+		
+		
 // Class = It is a collection of related code.
 
 // This is in source code and we are going to convert this source code into 
